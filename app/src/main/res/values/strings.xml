@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Integration</string>
+    <string name="facebook_app_id">463212331278368</string>
+    <string name="fb_login_protocol_scheme">fb463212331278368</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="default_notification_channel_id">firebase</string>
+
+</resources>
